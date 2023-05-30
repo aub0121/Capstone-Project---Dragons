@@ -8,7 +8,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags = "@cancelOrder",
+		tags = "@returnOrder",
 		features = ("classpath:features"),
 		glue = "tek.capstone.dragons",
 		dryRun = false,

@@ -57,11 +57,11 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath = "//button[@id='buyAgainBtn']")
 	public WebElement buyItAgainBttn;
 	@FindBy(xpath = "//div[@class='order']//descendant::button[@id='cancelBtn']")
-    public List<WebElement> cancelBttn;
+    public WebElement cancelBttn;
 	@FindBy(xpath = "//p[text()='Show Details']")
 	public WebElement showDetails;
 	@FindBy(xpath = "//div[@class='order']//descendant::button[@id='returnBtn']")
-	public List<WebElement> returnItemsbttn;
+	public WebElement returnItemsbttn;
 	@FindBy(xpath = "//select[@id='dropOffInput']")
 	public WebElement dropOffLocationDropdown;
 	@FindBy(xpath = "//button[@class='order__cancel-submit']")
@@ -78,6 +78,8 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement addYourReviewBttn;
 	@FindBy(xpath = "//div[text()='Your review was added successfully']")
 	public WebElement reviewAddedSuccessMssg;
+	@FindBy(xpath = "//p[text()='Order Placed']")
+	public WebElement orderPlaced;
 	
 	
 	

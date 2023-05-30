@@ -621,3 +621,91 @@
 2023-05-30 13:40:11,374 - logger_file -INFO - User click on Login button successfully
 2023-05-30 13:40:11,983 - logger_file -INFO - User created acount successfully
 2023-05-30 13:40:12,319 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:29:24,026 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:29:24,346 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:29:24,518 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:29:26,797 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:29:27,410 - logger_file -INFO - User created acount successfully
+2023-05-30 17:29:27,745 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:33:23,427 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:33:23,748 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:33:23,893 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:33:26,204 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:33:26,818 - logger_file -INFO - User created acount successfully
+2023-05-30 17:33:27,132 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:33:27,391 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:33:27,666 - logger_file -INFO - User clicked in cancel button successfully
+2023-05-30 17:33:28,304 - logger_file -INFO - User enter cancelation reason successfully
+2023-05-30 17:33:28,586 - logger_file -INFO - User click on cancel order button successfully
+2023-05-30 17:43:47,197 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:43:47,535 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:43:47,687 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:43:49,995 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:43:50,573 - logger_file -INFO - User created acount successfully
+2023-05-30 17:43:50,883 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:43:51,183 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:43:51,447 - logger_file -INFO - User clicked in cancel button successfully
+2023-05-30 17:43:52,038 - logger_file -INFO - User enter cancelation reason successfully
+2023-05-30 17:43:52,321 - logger_file -INFO - User click on cancel order button successfully
+2023-05-30 17:46:27,962 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:46:28,277 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:46:28,427 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:46:30,730 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:46:31,338 - logger_file -INFO - User created acount successfully
+2023-05-30 17:46:31,670 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:46:31,954 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:46:32,228 - logger_file -INFO - User clicked in cancel button successfully
+2023-05-30 17:46:32,882 - logger_file -INFO - User enter cancelation reason successfully
+2023-05-30 17:46:33,162 - logger_file -INFO - User click on cancel order button successfully
+2023-05-30 17:49:18,096 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:49:18,423 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:49:18,561 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:49:20,851 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:49:21,456 - logger_file -INFO - User created acount successfully
+2023-05-30 17:49:21,767 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:49:22,056 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:49:22,325 - logger_file -INFO - User clicked in cancel button successfully
+2023-05-30 17:49:22,947 - logger_file -INFO - User enter cancelation reason successfully
+2023-05-30 17:49:23,230 - logger_file -INFO - User click on cancel order button successfully
+2023-05-30 17:49:26,284 - logger_file -INFO - Your Order Has Been Cancelled is displayed
+2023-05-30 17:49:54,282 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:49:54,573 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:49:54,709 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:49:57,007 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:49:57,593 - logger_file -INFO - User created acount successfully
+2023-05-30 17:49:57,886 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:49:58,182 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:49:58,450 - logger_file -INFO - User clicked on return item button successfully
+2023-05-30 17:49:58,754 - logger_file -INFO - User selected item damaged from dropdown successfully
+2023-05-30 17:49:59,053 - logger_file -INFO - User selcted on Fedex successfully
+2023-05-30 17:49:59,336 - logger_file -INFO - User clicked on return order button successfully
+2023-05-30 17:52:52,126 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:52:52,452 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:52:52,627 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:52:54,881 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:52:55,479 - logger_file -INFO - User created acount successfully
+2023-05-30 17:52:55,792 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:52:56,070 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:52:56,345 - logger_file -INFO - User clicked on return item button successfully
+2023-05-30 17:52:56,625 - logger_file -INFO - User selected item damaged from dropdown successfully
+2023-05-30 17:52:56,886 - logger_file -INFO - User selcted on Fedex successfully
+2023-05-30 17:52:57,160 - logger_file -INFO - User clicked on return order button successfully
+2023-05-30 17:56:50,072 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:56:50,378 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:56:50,534 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:56:52,828 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:56:53,440 - logger_file -INFO - User created acount successfully
+2023-05-30 17:56:53,757 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:56:54,057 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:59:00,440 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 17:59:00,766 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 17:59:00,919 - logger_file -INFO - User entered email and password successfully
+2023-05-30 17:59:03,222 - logger_file -INFO - User click on Login button successfully
+2023-05-30 17:59:03,793 - logger_file -INFO - User created acount successfully
+2023-05-30 17:59:04,108 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 17:59:04,421 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-05-30 17:59:04,721 - logger_file -INFO - User clicked on return item button successfully
+2023-05-30 17:59:05,059 - logger_file -INFO - User selected item damaged from dropdown successfully
+2023-05-30 17:59:05,362 - logger_file -INFO - User selcted on Fedex successfully
+2023-05-30 17:59:05,645 - logger_file -INFO - User clicked on return order button successfully
+2023-05-30 17:59:08,685 - logger_file -INFO - Return was successfull is displayed

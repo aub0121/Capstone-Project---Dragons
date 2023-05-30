@@ -1,3 +1,4 @@
+@testAll
 Feature: Retail Order Page
 
 Background:
@@ -48,7 +49,7 @@ Scenario: Verify User can Return the order
 	And User select the Return Reason 'Item damaged'
 	And User select the drop off service 'FedEx'
 	And User click on Return Order button
-	Then a cancelation message should be displayed 'Return was successful'
+	Then a return message should be displayed 'Return was successfull'
 
 @writeReview
 Scenario: Verify User can write a review on order placed

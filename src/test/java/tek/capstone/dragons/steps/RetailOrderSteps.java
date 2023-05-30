@@ -181,6 +181,7 @@ public class RetailOrderSteps extends CommonUtility {
 	public void userClickAddYourReviewButton() {
 	   click(factory.retailOrderPage().addYourReviewBttn);
 	   logger.info("User clicked on add your review button succesfully");
+	   logger.info("Just add something");
 	}
 
 	

@@ -1,0 +1,623 @@
+2023-05-03 00:22:43,024 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:24:44,847 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:25:49,844 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:28:36,602 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:31:06,757 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:39:05,615 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:42:30,471 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:42:30,768 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 00:53:06,945 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 00:53:07,260 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 00:53:08,525 - logger_file -INFO - User clicked on Create Account Button successfully
+2023-05-03 00:53:08,648 - logger_file -INFO - User successfully entered name
+2023-05-03 00:53:08,718 - logger_file -INFO - User successfully entered email
+2023-05-03 00:53:08,778 - logger_file -INFO - User successfully entered valid password
+2023-05-03 00:53:08,851 - logger_file -INFO - User successfully entered confirmation password
+2023-05-03 00:53:11,158 - logger_file -INFO - User clicked on Sign Up button successfully
+2023-05-03 18:44:15,723 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 18:44:16,127 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 18:45:44,881 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 18:45:45,280 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 18:48:26,807 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 18:48:27,228 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 18:50:25,264 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 18:50:25,737 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 18:52:02,472 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 18:52:02,887 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 18:52:06,236 - logger_file -INFO - User clicked on Create Account Button successfully
+2023-05-03 18:52:06,703 - logger_file -INFO - User entered name, email, password and confirm password successfully
+2023-05-03 18:52:09,032 - logger_file -INFO - User clicked on Sign Up button successfully
+2023-05-03 19:00:11,026 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 19:00:11,478 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 19:00:14,824 - logger_file -INFO - User clicked on Create Account Button successfully
+2023-05-03 19:00:15,310 - logger_file -INFO - User entered name, email, password and confirm password successfully
+2023-05-03 19:00:17,639 - logger_file -INFO - User clicked on Sign Up button successfully
+2023-05-03 19:01:14,699 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 19:01:15,108 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 19:01:16,432 - logger_file -INFO - User clicked on Create Account Button successfully
+2023-05-03 19:01:17,072 - logger_file -INFO - User entered name, email, password and confirm password successfully
+2023-05-03 19:01:18,407 - logger_file -INFO - User clicked on Sign Up button successfully
+2023-05-03 19:01:19,030 - logger_file -INFO - User created acount successfully
+2023-05-03 19:01:54,658 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 19:01:55,043 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 19:01:56,368 - logger_file -INFO - User clicked on Create Account Button successfully
+2023-05-03 19:01:56,817 - logger_file -INFO - User entered name, email, password and confirm password successfully
+2023-05-03 19:01:58,133 - logger_file -INFO - User clicked on Sign Up button successfully
+2023-05-03 19:02:36,184 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 19:02:36,568 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 19:02:37,883 - logger_file -INFO - User clicked on Create Account Button successfully
+2023-05-03 19:02:38,515 - logger_file -INFO - User entered name, email, password and confirm password successfully
+2023-05-03 19:02:39,861 - logger_file -INFO - User clicked on Sign Up button successfully
+2023-05-03 19:02:40,483 - logger_file -INFO - User created acount successfully
+2023-05-03 22:13:02,450 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 22:13:02,859 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 22:25:54,981 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 22:25:55,376 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 22:25:55,666 - logger_file -INFO - User entered email and password successfully
+2023-05-03 22:28:05,077 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 22:28:05,519 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 22:28:05,801 - logger_file -INFO - User entered email and password successfully
+2023-05-03 22:28:08,139 - logger_file -INFO - User click on Login button successfully
+2023-05-03 22:28:08,782 - logger_file -INFO - User created acount successfully
+2023-05-03 23:07:57,923 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-03 23:07:58,344 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-03 23:07:58,615 - logger_file -INFO - User entered email and password successfully
+2023-05-03 23:08:00,952 - logger_file -INFO - User click on Login button successfully
+2023-05-03 23:08:01,592 - logger_file -INFO - User created acount successfully
+2023-05-03 23:08:01,961 - logger_file -INFO - User cliked on account button successfully
+2023-05-03 23:08:02,291 - logger_file -INFO - User enetered new name and phone number successfully
+2023-05-03 23:08:02,595 - logger_file -INFO - User clicked on update button successfully
+2023-05-03 23:08:03,213 - logger_file -INFO - User profile information updated successfully
+2023-05-07 08:30:21,191 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-07 08:30:21,589 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-07 08:30:21,868 - logger_file -INFO - User entered email and password successfully
+2023-05-07 08:30:24,182 - logger_file -INFO - User click on Login button successfully
+2023-05-07 08:30:24,808 - logger_file -INFO - User created acount successfully
+2023-05-07 08:30:25,151 - logger_file -INFO - User cliked on account button successfully
+2023-05-07 08:30:25,504 - logger_file -INFO - User enetered new name and phone number successfully
+2023-05-07 08:30:25,801 - logger_file -INFO - User clicked on update button successfully
+2023-05-07 08:30:26,384 - logger_file -INFO - User profile information updated successfully
+2023-05-07 09:37:31,938 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-07 09:37:32,350 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-07 09:37:32,600 - logger_file -INFO - User entered email and password successfully
+2023-05-07 09:37:34,950 - logger_file -INFO - User click on Login button successfully
+2023-05-07 09:38:07,674 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-07 09:38:08,075 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-07 09:38:08,336 - logger_file -INFO - User entered email and password successfully
+2023-05-07 09:38:10,669 - logger_file -INFO - User click on Login button successfully
+2023-05-07 09:39:23,676 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-07 09:39:24,067 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-07 09:39:24,331 - logger_file -INFO - User entered email and password successfully
+2023-05-07 09:39:26,659 - logger_file -INFO - User click on Login button successfully
+2023-05-07 09:39:27,287 - logger_file -INFO - User created acount successfully
+2023-05-07 09:39:27,630 - logger_file -INFO - User cliked on account button successfully
+2023-05-07 09:39:28,004 - logger_file -INFO - User enetered new name and phone number successfully
+2023-05-15 17:48:42,525 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-15 17:48:42,831 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-15 17:48:43,012 - logger_file -INFO - User entered email and password successfully
+2023-05-15 17:48:45,307 - logger_file -INFO - User click on Login button successfully
+2023-05-15 17:48:45,389 - logger_file -INFO - User created acount successfully
+2023-05-15 17:48:45,694 - logger_file -INFO - User cliked on account button successfully
+2023-05-15 17:48:45,992 - logger_file -INFO - User clicked on add payment method link successfully
+2023-05-15 17:48:46,822 - logger_file -INFO - User entered card information successfully
+2023-05-15 17:48:47,111 - logger_file -INFO - User clicked on submit payment button successfully
+2023-05-15 17:51:29,725 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-15 17:51:30,080 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-15 17:51:30,311 - logger_file -INFO - User entered email and password successfully
+2023-05-15 17:51:32,589 - logger_file -INFO - User click on Login button successfully
+2023-05-15 17:51:32,633 - logger_file -INFO - User created acount successfully
+2023-05-15 17:51:32,944 - logger_file -INFO - User cliked on account button successfully
+2023-05-15 17:51:33,203 - logger_file -INFO - User clicked on add payment method link successfully
+2023-05-15 17:51:34,003 - logger_file -INFO - User entered card information successfully
+2023-05-15 17:51:34,260 - logger_file -INFO - User clicked on submit payment button successfully
+2023-05-15 17:52:47,935 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-15 17:52:48,273 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-15 17:52:48,478 - logger_file -INFO - User entered email and password successfully
+2023-05-15 17:52:50,783 - logger_file -INFO - User click on Login button successfully
+2023-05-15 17:52:50,875 - logger_file -INFO - User created acount successfully
+2023-05-15 17:52:51,192 - logger_file -INFO - User cliked on account button successfully
+2023-05-15 17:52:51,490 - logger_file -INFO - User clicked on add payment method link successfully
+2023-05-15 17:52:52,280 - logger_file -INFO - User entered card information successfully
+2023-05-15 17:52:55,637 - logger_file -INFO - User clicked on submit payment button successfully
+2023-05-23 20:46:42,641 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 20:46:43,048 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 20:46:43,444 - logger_file -INFO - User entered email and password successfully
+2023-05-23 20:46:45,787 - logger_file -INFO - User click on Login button successfully
+2023-05-23 20:46:45,992 - logger_file -INFO - User created acount successfully
+2023-05-23 20:46:46,381 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 20:46:46,700 - logger_file -INFO - User clicked on add payment method link successfully
+2023-05-23 20:46:47,642 - logger_file -INFO - User entered card information successfully
+2023-05-23 20:46:50,977 - logger_file -INFO - User clicked on submit payment button successfully
+2023-05-23 20:49:26,193 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 20:49:26,694 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 20:49:27,015 - logger_file -INFO - User entered email and password successfully
+2023-05-23 20:49:29,344 - logger_file -INFO - User click on Login button successfully
+2023-05-23 20:49:29,492 - logger_file -INFO - User created acount successfully
+2023-05-23 20:49:29,914 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 20:49:30,222 - logger_file -INFO - User clicked on add payment method link successfully
+2023-05-23 20:49:31,369 - logger_file -INFO - User entered card information successfully
+2023-05-23 20:49:34,719 - logger_file -INFO - User clicked on submit payment button successfully
+2023-05-23 21:12:57,019 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 21:12:57,442 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 21:12:57,784 - logger_file -INFO - User entered email and password successfully
+2023-05-23 21:13:00,161 - logger_file -INFO - User click on Login button successfully
+2023-05-23 21:13:00,374 - logger_file -INFO - User created acount successfully
+2023-05-23 21:13:00,756 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 21:14:45,443 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 21:14:45,836 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 21:14:46,195 - logger_file -INFO - User entered email and password successfully
+2023-05-23 21:14:48,534 - logger_file -INFO - User click on Login button successfully
+2023-05-23 21:14:48,710 - logger_file -INFO - User created acount successfully
+2023-05-23 21:14:49,110 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 21:14:49,467 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 21:19:04,541 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 21:19:04,922 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 21:19:05,183 - logger_file -INFO - User entered email and password successfully
+2023-05-23 21:19:07,520 - logger_file -INFO - User click on Login button successfully
+2023-05-23 21:19:08,191 - logger_file -INFO - User created acount successfully
+2023-05-23 21:19:08,584 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 21:19:08,938 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 21:24:02,296 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 21:24:02,692 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 21:24:03,023 - logger_file -INFO - User entered email and password successfully
+2023-05-23 21:24:05,374 - logger_file -INFO - User click on Login button successfully
+2023-05-23 21:24:05,551 - logger_file -INFO - User created acount successfully
+2023-05-23 21:24:05,966 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 21:24:06,289 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 21:25:53,294 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 21:25:53,768 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 21:25:54,060 - logger_file -INFO - User entered email and password successfully
+2023-05-23 21:25:56,409 - logger_file -INFO - User click on Login button successfully
+2023-05-23 21:25:57,059 - logger_file -INFO - User created acount successfully
+2023-05-23 21:25:57,457 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 21:26:00,842 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 22:16:34,345 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 22:16:34,727 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 22:16:35,046 - logger_file -INFO - User entered email and password successfully
+2023-05-23 22:16:37,381 - logger_file -INFO - User click on Login button successfully
+2023-05-23 22:16:37,461 - logger_file -INFO - User created acount successfully
+2023-05-23 22:16:37,811 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 22:16:41,165 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 22:19:24,487 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 22:19:24,923 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 22:19:25,299 - logger_file -INFO - User entered email and password successfully
+2023-05-23 22:19:27,644 - logger_file -INFO - User click on Login button successfully
+2023-05-23 22:19:27,766 - logger_file -INFO - User created acount successfully
+2023-05-23 22:19:28,151 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 22:19:50,648 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 22:28:45,166 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 22:28:45,534 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 22:28:45,920 - logger_file -INFO - User entered email and password successfully
+2023-05-23 22:28:48,273 - logger_file -INFO - User click on Login button successfully
+2023-05-23 22:28:48,396 - logger_file -INFO - User created acount successfully
+2023-05-23 22:28:48,800 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 22:28:49,139 - logger_file -INFO - User clicked on card to edit successfully
+2023-05-23 22:28:52,504 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 22:28:56,682 - logger_file -INFO - User updated card info successfully
+2023-05-23 22:28:56,978 - logger_file -INFO - User click on update payment button successfully
+2023-05-23 22:49:00,051 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 22:49:00,506 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 22:49:00,732 - logger_file -INFO - User entered email and password successfully
+2023-05-23 22:49:03,062 - logger_file -INFO - User click on Login button successfully
+2023-05-23 22:49:03,247 - logger_file -INFO - User created acount successfully
+2023-05-23 22:49:03,621 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 22:53:04,732 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 22:53:05,160 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 22:53:05,546 - logger_file -INFO - User entered email and password successfully
+2023-05-23 22:53:07,904 - logger_file -INFO - User click on Login button successfully
+2023-05-23 22:53:08,522 - logger_file -INFO - User created acount successfully
+2023-05-23 22:53:08,879 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 22:53:09,184 - logger_file -INFO - User clicked on card to edit successfully
+2023-05-23 22:53:12,519 - logger_file -INFO - User clicked on edit button successfully
+2023-05-23 22:53:16,692 - logger_file -INFO - User updated card info successfully
+2023-05-23 22:53:16,992 - logger_file -INFO - User click on update payment button successfully
+2023-05-23 22:53:44,949 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-23 22:53:45,313 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-23 22:53:45,619 - logger_file -INFO - User entered email and password successfully
+2023-05-23 22:53:47,980 - logger_file -INFO - User click on Login button successfully
+2023-05-23 22:53:48,622 - logger_file -INFO - User created acount successfully
+2023-05-23 22:53:48,982 - logger_file -INFO - User cliked on account button successfully
+2023-05-23 22:53:49,332 - logger_file -INFO - User clicked on card to edit successfully
+2023-05-23 22:53:49,646 - logger_file -INFO - User clicked on remove card successfully
+2023-05-23 22:53:49,718 - logger_file -INFO - Card was removed successfully
+2023-05-25 20:05:18,034 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 20:05:18,380 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 20:05:18,684 - logger_file -INFO - User entered email and password successfully
+2023-05-25 20:05:21,034 - logger_file -INFO - User click on Login button successfully
+2023-05-25 20:05:21,810 - logger_file -INFO - User created acount successfully
+2023-05-25 20:05:22,250 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 20:05:22,563 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 20:11:18,182 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 20:11:18,566 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 20:11:18,924 - logger_file -INFO - User entered email and password successfully
+2023-05-25 20:11:21,298 - logger_file -INFO - User click on Login button successfully
+2023-05-25 20:11:21,453 - logger_file -INFO - User created acount successfully
+2023-05-25 20:11:21,825 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 20:11:22,220 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 20:42:03,734 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 20:42:04,117 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 20:42:04,395 - logger_file -INFO - User entered email and password successfully
+2023-05-25 20:42:06,757 - logger_file -INFO - User click on Login button successfully
+2023-05-25 20:42:06,932 - logger_file -INFO - User created acount successfully
+2023-05-25 20:42:07,353 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 20:42:07,731 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 20:56:01,074 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 20:56:01,666 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 20:56:02,111 - logger_file -INFO - User entered email and password successfully
+2023-05-25 20:56:04,446 - logger_file -INFO - User click on Login button successfully
+2023-05-25 20:56:04,606 - logger_file -INFO - User created acount successfully
+2023-05-25 20:56:04,982 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 20:56:05,342 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 20:57:34,960 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 20:57:35,366 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 20:57:35,714 - logger_file -INFO - User entered email and password successfully
+2023-05-25 20:57:38,063 - logger_file -INFO - User click on Login button successfully
+2023-05-25 20:57:38,210 - logger_file -INFO - User created acount successfully
+2023-05-25 20:57:38,604 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 20:57:38,963 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 20:59:28,543 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 20:59:28,955 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 20:59:29,242 - logger_file -INFO - User entered email and password successfully
+2023-05-25 20:59:31,594 - logger_file -INFO - User click on Login button successfully
+2023-05-25 20:59:32,237 - logger_file -INFO - User created acount successfully
+2023-05-25 20:59:32,642 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 20:59:32,966 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 20:59:36,296 - logger_file -INFO - User added address information successfully
+2023-05-25 20:59:36,752 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:03:56,484 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 21:03:56,917 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 21:03:57,287 - logger_file -INFO - User entered email and password successfully
+2023-05-25 21:03:59,630 - logger_file -INFO - User click on Login button successfully
+2023-05-25 21:04:00,276 - logger_file -INFO - User created acount successfully
+2023-05-25 21:04:00,692 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 21:04:01,036 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 21:04:04,475 - logger_file -INFO - User added address information successfully
+2023-05-25 21:04:04,891 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:07:14,672 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 21:07:15,061 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 21:07:15,374 - logger_file -INFO - User entered email and password successfully
+2023-05-25 21:07:17,725 - logger_file -INFO - User click on Login button successfully
+2023-05-25 21:07:17,901 - logger_file -INFO - User created acount successfully
+2023-05-25 21:07:18,284 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 21:07:18,654 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 21:07:21,979 - logger_file -INFO - User added address information successfully
+2023-05-25 21:07:22,418 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:08:56,134 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 21:08:56,535 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 21:08:56,783 - logger_file -INFO - User entered email and password successfully
+2023-05-25 21:08:59,118 - logger_file -INFO - User click on Login button successfully
+2023-05-25 21:08:59,750 - logger_file -INFO - User created acount successfully
+2023-05-25 21:09:00,117 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 21:09:00,468 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 21:09:03,702 - logger_file -INFO - User added address information successfully
+2023-05-25 21:09:04,144 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:09:48,753 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 21:09:49,137 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 21:09:49,525 - logger_file -INFO - User entered email and password successfully
+2023-05-25 21:09:51,856 - logger_file -INFO - User click on Login button successfully
+2023-05-25 21:09:51,972 - logger_file -INFO - User created acount successfully
+2023-05-25 21:09:52,355 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 21:09:52,692 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 21:09:56,027 - logger_file -INFO - User added address information successfully
+2023-05-25 21:09:56,424 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:11:19,076 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 21:11:19,454 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 21:11:19,730 - logger_file -INFO - User entered email and password successfully
+2023-05-25 21:11:22,084 - logger_file -INFO - User click on Login button successfully
+2023-05-25 21:11:22,247 - logger_file -INFO - User created acount successfully
+2023-05-25 21:11:22,626 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 21:11:22,986 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 21:11:26,253 - logger_file -INFO - User added address information successfully
+2023-05-25 21:11:26,624 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:12:03,729 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 21:12:04,111 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 21:12:04,430 - logger_file -INFO - User entered email and password successfully
+2023-05-25 21:12:06,792 - logger_file -INFO - User click on Login button successfully
+2023-05-25 21:12:06,971 - logger_file -INFO - User created acount successfully
+2023-05-25 21:12:07,370 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 21:12:07,724 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 21:12:11,015 - logger_file -INFO - User added address information successfully
+2023-05-25 21:12:11,356 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:15:57,798 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-25 21:15:58,263 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-25 21:15:58,621 - logger_file -INFO - User entered email and password successfully
+2023-05-25 21:16:00,982 - logger_file -INFO - User click on Login button successfully
+2023-05-25 21:16:01,111 - logger_file -INFO - User created acount successfully
+2023-05-25 21:16:01,503 - logger_file -INFO - User cliked on account button successfully
+2023-05-25 21:16:01,882 - logger_file -INFO - User clicked on address option succesfully
+2023-05-25 21:16:05,146 - logger_file -INFO - User added address information successfully
+2023-05-25 21:16:05,502 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-25 21:16:06,107 - logger_file -INFO - Address Added Successfully is displayed
+2023-05-28 21:15:44,365 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-28 21:15:44,813 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-28 21:15:45,066 - logger_file -INFO - User entered email and password successfully
+2023-05-28 21:15:47,429 - logger_file -INFO - User click on Login button successfully
+2023-05-28 21:15:48,070 - logger_file -INFO - User created acount successfully
+2023-05-28 21:15:48,451 - logger_file -INFO - User cliked on account button successfully
+2023-05-28 21:15:48,769 - logger_file -INFO - User clicked on address option succesfully
+2023-05-28 21:15:51,850 - logger_file -INFO - User added address information successfully
+2023-05-28 21:15:52,213 - logger_file -INFO - User click on add addresss button sucessfully
+2023-05-28 21:15:52,814 - logger_file -INFO - Address Added Successfully is displayed
+2023-05-28 21:41:48,156 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-28 21:41:48,535 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-28 21:41:48,821 - logger_file -INFO - User entered email and password successfully
+2023-05-28 21:41:51,181 - logger_file -INFO - User click on Login button successfully
+2023-05-28 21:41:51,819 - logger_file -INFO - User created acount successfully
+2023-05-28 21:41:52,204 - logger_file -INFO - User cliked on account button successfully
+2023-05-28 21:41:52,513 - logger_file -INFO - User click on edit address button successfully
+2023-05-28 21:41:55,731 - logger_file -INFO - User added address information successfully
+2023-05-28 21:41:56,101 - logger_file -INFO - User licked on update address button successfully
+2023-05-28 21:54:44,177 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-28 21:54:44,612 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-28 21:54:44,887 - logger_file -INFO - User entered email and password successfully
+2023-05-28 21:54:47,236 - logger_file -INFO - User click on Login button successfully
+2023-05-28 21:54:47,858 - logger_file -INFO - User created acount successfully
+2023-05-28 21:54:48,222 - logger_file -INFO - User cliked on account button successfully
+2023-05-28 21:54:48,541 - logger_file -INFO - User click on edit address button successfully
+2023-05-28 21:54:49,883 - logger_file -INFO - User updated address information successfully
+2023-05-28 21:54:50,247 - logger_file -INFO - User licked on update address button successfully
+2023-05-28 21:58:39,757 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-28 21:58:40,160 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-28 21:58:40,391 - logger_file -INFO - User entered email and password successfully
+2023-05-28 21:58:42,715 - logger_file -INFO - User click on Login button successfully
+2023-05-28 21:58:43,399 - logger_file -INFO - User created acount successfully
+2023-05-28 21:58:43,806 - logger_file -INFO - User cliked on account button successfully
+2023-05-28 21:58:44,154 - logger_file -INFO - User click on edit address button successfully
+2023-05-28 21:58:45,375 - logger_file -INFO - User updated address information successfully
+2023-05-28 21:58:45,781 - logger_file -INFO - User licked on update address button successfully
+2023-05-28 22:08:54,564 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-28 22:08:54,962 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-28 22:08:55,230 - logger_file -INFO - User entered email and password successfully
+2023-05-28 22:08:57,572 - logger_file -INFO - User click on Login button successfully
+2023-05-28 22:08:58,200 - logger_file -INFO - User created acount successfully
+2023-05-28 22:08:58,559 - logger_file -INFO - User cliked on account button successfully
+2023-05-28 22:08:58,871 - logger_file -INFO - User click on edit address button successfully
+2023-05-28 22:08:59,875 - logger_file -INFO - User updated address information successfully
+2023-05-28 22:09:00,273 - logger_file -INFO - User licked on update address button successfully
+2023-05-28 22:17:44,977 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-28 22:17:45,470 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-28 22:17:45,828 - logger_file -INFO - User entered email and password successfully
+2023-05-28 22:17:48,184 - logger_file -INFO - User click on Login button successfully
+2023-05-28 22:17:48,819 - logger_file -INFO - User created acount successfully
+2023-05-28 22:17:49,220 - logger_file -INFO - User cliked on account button successfully
+2023-05-28 22:17:49,532 - logger_file -INFO - User click on edit address button successfully
+2023-05-28 22:17:50,614 - logger_file -INFO - User updated address information successfully
+2023-05-28 22:17:50,972 - logger_file -INFO - User clicked on update address button successfully
+2023-05-28 22:20:32,601 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-28 22:20:33,013 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-28 22:20:33,303 - logger_file -INFO - User entered email and password successfully
+2023-05-28 22:20:35,666 - logger_file -INFO - User click on Login button successfully
+2023-05-28 22:20:36,313 - logger_file -INFO - User created acount successfully
+2023-05-28 22:20:36,713 - logger_file -INFO - User cliked on account button successfully
+2023-05-28 22:20:37,032 - logger_file -INFO - User clicked on remove address button successfully
+2023-05-28 22:20:37,067 - logger_file -INFO - Address was removed successfully
+2023-05-29 20:21:00,686 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:21:01,016 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 20:21:01,185 - logger_file -INFO - User entered email and password successfully
+2023-05-29 20:21:03,477 - logger_file -INFO - User click on Login button successfully
+2023-05-29 20:21:04,056 - logger_file -INFO - User created acount successfully
+2023-05-29 20:21:05,091 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:25:43,552 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:25:43,872 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 20:25:44,004 - logger_file -INFO - User entered email and password successfully
+2023-05-29 20:25:46,276 - logger_file -INFO - User click on Login button successfully
+2023-05-29 20:25:46,859 - logger_file -INFO - User created acount successfully
+2023-05-29 20:25:47,901 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:25:48,189 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-29 20:30:48,431 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:30:48,723 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 20:30:48,894 - logger_file -INFO - User entered email and password successfully
+2023-05-29 20:30:51,195 - logger_file -INFO - User click on Login button successfully
+2023-05-29 20:30:51,784 - logger_file -INFO - User created acount successfully
+2023-05-29 20:30:52,826 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:30:53,094 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-29 20:41:04,395 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:41:04,727 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 20:41:04,997 - logger_file -INFO - User entered email and password successfully
+2023-05-29 20:41:07,294 - logger_file -INFO - User click on Login button successfully
+2023-05-29 20:41:07,858 - logger_file -INFO - User created acount successfully
+2023-05-29 20:41:08,895 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 20:41:09,200 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-29 20:41:09,305 - logger_file -INFO - All departments are displayed
+2023-05-29 21:56:16,459 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 21:56:16,801 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 21:56:16,967 - logger_file -INFO - User entered email and password successfully
+2023-05-29 21:56:19,266 - logger_file -INFO - User click on Login button successfully
+2023-05-29 21:56:19,851 - logger_file -INFO - User created acount successfully
+2023-05-29 21:56:20,181 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 21:56:20,252 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-29 21:56:20,505 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 21:56:20,777 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-29 21:56:21,039 - logger_file -INFO - User input item quantity successfully
+2023-05-29 21:56:21,324 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-29 21:57:52,720 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 21:57:53,021 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 21:57:53,163 - logger_file -INFO - User entered email and password successfully
+2023-05-29 21:57:55,462 - logger_file -INFO - User click on Login button successfully
+2023-05-29 21:57:56,052 - logger_file -INFO - User created acount successfully
+2023-05-29 21:57:56,369 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 21:57:56,422 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-29 21:57:56,668 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 21:57:56,955 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-29 21:57:57,239 - logger_file -INFO - User input item quantity successfully
+2023-05-29 21:57:57,521 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-29 21:57:57,543 - logger_file -INFO - 2quantity is displayed succesfully
+2023-05-29 22:42:15,609 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 22:42:15,926 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 22:42:16,072 - logger_file -INFO - User entered email and password successfully
+2023-05-29 22:42:18,374 - logger_file -INFO - User click on Login button successfully
+2023-05-29 22:42:18,959 - logger_file -INFO - User created acount successfully
+2023-05-29 22:42:19,287 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 22:42:19,358 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-29 22:42:19,606 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 22:42:19,888 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-29 22:42:20,170 - logger_file -INFO - User input item quantity successfully
+2023-05-29 22:42:20,435 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-29 22:43:21,712 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 22:43:21,995 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 22:43:22,125 - logger_file -INFO - User entered email and password successfully
+2023-05-29 22:43:24,434 - logger_file -INFO - User click on Login button successfully
+2023-05-29 22:43:25,024 - logger_file -INFO - User created acount successfully
+2023-05-29 22:43:25,327 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 22:43:25,394 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-29 22:43:25,640 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 22:43:25,949 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-29 22:48:42,053 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 22:48:42,373 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 22:48:42,505 - logger_file -INFO - User entered email and password successfully
+2023-05-29 22:48:44,807 - logger_file -INFO - User click on Login button successfully
+2023-05-29 22:48:45,393 - logger_file -INFO - User created acount successfully
+2023-05-29 22:48:45,714 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 22:48:45,816 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-29 22:48:46,095 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 22:48:46,427 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-29 22:48:46,724 - logger_file -INFO - User input item quantity successfully
+2023-05-29 22:48:46,985 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-29 22:48:46,994 - logger_file -INFO - 2quantity is displayed succesfully
+2023-05-29 22:55:59,013 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 22:55:59,331 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 22:55:59,479 - logger_file -INFO - User entered email and password successfully
+2023-05-29 22:56:01,784 - logger_file -INFO - User click on Login button successfully
+2023-05-29 22:56:02,389 - logger_file -INFO - User created acount successfully
+2023-05-29 22:56:02,731 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 22:56:02,787 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-05-29 22:56:03,033 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 22:56:40,259 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 22:56:40,595 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 22:56:40,828 - logger_file -INFO - User entered email and password successfully
+2023-05-29 22:56:43,114 - logger_file -INFO - User click on Login button successfully
+2023-05-29 22:56:43,715 - logger_file -INFO - User created acount successfully
+2023-05-29 22:56:44,063 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 22:56:44,133 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-05-29 22:56:44,379 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 23:04:25,385 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 23:04:25,708 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 23:04:25,893 - logger_file -INFO - User entered email and password successfully
+2023-05-29 23:04:28,191 - logger_file -INFO - User click on Login button successfully
+2023-05-29 23:04:28,781 - logger_file -INFO - User created acount successfully
+2023-05-29 23:04:29,100 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-29 23:04:29,180 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-05-29 23:04:29,422 - logger_file -INFO - User clicked on search icon successfully
+2023-05-29 23:04:29,685 - logger_file -INFO - User clicked on Apex Legends Item successfully
+2023-05-29 23:04:29,953 - logger_file -INFO - User input item quantity successfully
+2023-05-29 23:04:30,210 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-29 23:04:30,230 - logger_file -INFO - 5quantity is displayed succesfully
+2023-05-29 23:04:30,508 - logger_file -INFO - User clicked on cart button successfully
+2023-05-29 23:04:30,786 - logger_file -INFO - User clicked on proceed to checkout successfully
+2023-05-29 23:04:31,052 - logger_file -INFO - User clicked on place your order successfully
+2023-05-29 23:04:31,620 - logger_file -INFO - Order Placed, Thanks is displayed
+2023-05-29 23:40:15,986 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-29 23:40:16,288 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-29 23:40:16,426 - logger_file -INFO - User entered email and password successfully
+2023-05-29 23:40:18,718 - logger_file -INFO - User click on Login button successfully
+2023-05-29 23:40:19,298 - logger_file -INFO - User created acount successfully
+2023-05-29 23:40:19,585 - logger_file -INFO - User clicked on orders button successfully
+2023-05-29 23:40:19,629 - logger_file -INFO - First order in the list is displayed successfully
+2023-05-30 00:32:39,027 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:32:39,474 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:32:39,767 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:32:42,104 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:32:42,736 - logger_file -INFO - User created acount successfully
+2023-05-30 00:32:43,080 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-30 00:32:43,417 - logger_file -INFO - TV & Video is present
+2023-05-30 00:32:43,510 - logger_file -INFO - Video Games is present
+2023-05-30 00:32:51,635 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:32:51,954 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:32:52,172 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:32:54,479 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:32:55,081 - logger_file -INFO - User created acount successfully
+2023-05-30 00:32:55,432 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-30 00:33:02,465 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:33:02,759 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:33:02,956 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:33:05,248 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:33:05,829 - logger_file -INFO - User created acount successfully
+2023-05-30 00:33:06,105 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-30 00:33:13,550 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:33:13,860 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:33:14,142 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:33:16,431 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:33:17,000 - logger_file -INFO - User created acount successfully
+2023-05-30 00:33:17,310 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-30 00:33:25,442 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:33:25,818 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:33:26,140 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:33:28,471 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:33:29,070 - logger_file -INFO - User created acount successfully
+2023-05-30 00:33:29,381 - logger_file -INFO - User clicked on All button suuccessfully
+2023-05-30 00:44:42,417 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:44:42,904 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:44:43,249 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:44:45,608 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:44:46,254 - logger_file -INFO - User created acount successfully
+2023-05-30 00:44:46,737 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 00:49:39,099 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:49:39,560 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:49:39,835 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:49:42,170 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:49:42,805 - logger_file -INFO - User created acount successfully
+2023-05-30 00:49:43,191 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 00:51:23,361 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:51:23,806 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:51:24,111 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:51:26,434 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:51:27,064 - logger_file -INFO - User created acount successfully
+2023-05-30 00:51:27,502 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 00:57:00,865 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 00:57:01,515 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 00:57:01,873 - logger_file -INFO - User entered email and password successfully
+2023-05-30 00:57:04,220 - logger_file -INFO - User click on Login button successfully
+2023-05-30 00:57:04,833 - logger_file -INFO - User created acount successfully
+2023-05-30 00:57:05,203 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 10:11:15,442 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 10:11:15,830 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 10:11:16,093 - logger_file -INFO - User entered email and password successfully
+2023-05-30 10:11:18,445 - logger_file -INFO - User click on Login button successfully
+2023-05-30 10:11:19,077 - logger_file -INFO - User created acount successfully
+2023-05-30 10:11:19,496 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 10:13:27,385 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 10:13:27,861 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 10:13:28,166 - logger_file -INFO - User entered email and password successfully
+2023-05-30 10:13:30,512 - logger_file -INFO - User click on Login button successfully
+2023-05-30 10:13:31,142 - logger_file -INFO - User created acount successfully
+2023-05-30 10:13:31,566 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 12:03:21,250 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 12:03:21,727 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 12:03:21,995 - logger_file -INFO - User entered email and password successfully
+2023-05-30 12:03:24,352 - logger_file -INFO - User click on Login button successfully
+2023-05-30 12:03:24,983 - logger_file -INFO - User created acount successfully
+2023-05-30 12:03:25,416 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 12:24:47,422 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 12:24:47,881 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 12:24:48,237 - logger_file -INFO - User entered email and password successfully
+2023-05-30 12:24:50,591 - logger_file -INFO - User click on Login button successfully
+2023-05-30 12:24:51,210 - logger_file -INFO - User created acount successfully
+2023-05-30 12:24:51,585 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 12:28:51,145 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 12:28:51,562 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 12:28:51,852 - logger_file -INFO - User entered email and password successfully
+2023-05-30 12:28:54,171 - logger_file -INFO - User click on Login button successfully
+2023-05-30 12:28:54,801 - logger_file -INFO - User created acount successfully
+2023-05-30 12:28:55,186 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 12:32:32,867 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 12:32:33,317 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 12:32:33,689 - logger_file -INFO - User entered email and password successfully
+2023-05-30 12:32:36,045 - logger_file -INFO - User click on Login button successfully
+2023-05-30 12:32:36,670 - logger_file -INFO - User created acount successfully
+2023-05-30 12:32:37,093 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 13:39:19,705 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 13:39:20,017 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 13:39:20,155 - logger_file -INFO - User entered email and password successfully
+2023-05-30 13:39:22,472 - logger_file -INFO - User click on Login button successfully
+2023-05-30 13:39:23,068 - logger_file -INFO - User created acount successfully
+2023-05-30 13:39:23,363 - logger_file -INFO - User clicked on orders button successfully
+2023-05-30 13:39:23,764 - logger_file -INFO - User click on review button successfully
+2023-05-30 13:39:23,906 - logger_file -INFO - User input text successfully
+2023-05-30 13:39:24,210 - logger_file -INFO - User clicked on add your review button succesfully
+2023-05-30 13:39:24,778 - logger_file -INFO - Your review was added successfully is displayed
+2023-05-30 13:40:08,579 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-30 13:40:08,906 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-30 13:40:09,058 - logger_file -INFO - User entered email and password successfully
+2023-05-30 13:40:11,374 - logger_file -INFO - User click on Login button successfully
+2023-05-30 13:40:11,983 - logger_file -INFO - User created acount successfully
+2023-05-30 13:40:12,319 - logger_file -INFO - User clicked on orders button successfully

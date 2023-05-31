@@ -95,25 +95,23 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@Then("User click on first order in list")
 	public void userClickOnFirstOrderInList() {
-		List<WebElement> listOfOrders = factory.retailOrderPage().listOfOrder;
-        for (int i = 0; i < listOfOrders.size(); i++) {
-            if (listOfOrders.get(i).getText().equalsIgnoreCase("Hide Details")) {
-            	
-            } else if (listOfOrders.get(i).getText().equalsIgnoreCase("Show Details")) {
-                click(factory.retailOrderPage().showDetails);
-                logger.info("User clicked on show details successfully");
-            }
-        }
+//		List<WebElement> listOfOrders = factory.retailOrderPage().listOfOrder;
+//        for (int i = 0; i < listOfOrders.size(); i++) {
+//            if (listOfOrders.get(i).getText().equalsIgnoreCase("Show Details")) {
+//            	click(factory.retailOrderPage().showDetails);
+//                logger.info("User clicked on show details successfully");
+//            } 
+//        }
+		if(factory.retailOrderPage().orderPlaced.isDisplayed()) {
+			click(factory.retailOrderPage().showDetails);
+			logger.info("User clicked on show details button to retrieve first order");
+		}
 	}
 
 	@When("User click on Cancel The Order button")
 	public void userClickOnCancelTheOrderButton() {
-		List<WebElement> listOfCancelOptions = factory.retailOrderPage().cancelBttn;
-		for (int i = 0; i < listOfCancelOptions.size(); i++) {
-			click(listOfCancelOptions.get(0));
-			logger.info("Cancel the order button was clicked Successfully");
-			break;
-		}
+		click(factory.retailOrderPage().cancelBttn);
+		logger.info("User clicked in cancel button successfully");
 	}
 
 	@When("User select the cancelation Reason {string}")
@@ -130,19 +128,17 @@ public class RetailOrderSteps extends CommonUtility {
 	}
 
 	@Then("a cancelation message should be displayed {string}")
-	public void aCancelationMessageShouldBeDisplayed(String cancellationMessage) {
-		Assert.assertEquals(cancellationMessage, factory.retailOrderPage().orderCancelledMessage);
+	public void aCancelationMessageShouldBeDisplayed(String cancellationMessage) throws InterruptedException {
+		Thread.sleep(3000);
+		waitTillPresence(factory.retailOrderPage().orderCancelledMessage);
+		Assert.assertEquals(cancellationMessage, factory.retailOrderPage().orderCancelledMessage.getText());
 		logger.info(cancellationMessage + " is displayed");
 	}
 	
 	@Then("User click on Return Items button")
 	public void userClickOnReturnItemsButton() {
-		List<WebElement> listOfCancelOptions = factory.retailOrderPage().returnItemsbttn;
-		for (int i = 0; i < listOfCancelOptions.size(); i++) {
-			click(listOfCancelOptions.get(0));
-			logger.info("Return items button was clicked Successfully");
-			break;
-		}
+		click(factory.retailOrderPage().returnItemsbttn);
+		logger.info("User clicked on return item button successfully");
 	}
 	
 	@Then("User select the Return Reason {string}")
@@ -163,6 +159,14 @@ public class RetailOrderSteps extends CommonUtility {
 	   logger.info("User clicked on return order button successfully");
 	}
 	
+	@Then("a return message should be displayed {string}")
+	public void aReturnMessageShouldBeDisplayed(String returnMessage) throws InterruptedException {
+		Thread.sleep(3000);
+		waitTillPresence(factory.retailOrderPage().returnSuccessMessage);
+		Assert.assertEquals(returnMessage, factory.retailOrderPage().returnSuccessMessage.getText());
+		logger.info(returnMessage + " is displayed");
+	}
+	
 	@Then("User click on Review button")
 	public void userClickOnReviewButton() {
 		click(factory.retailOrderPage().reviewBttn);
@@ -181,6 +185,7 @@ public class RetailOrderSteps extends CommonUtility {
 	public void userClickAddYourReviewButton() {
 	   click(factory.retailOrderPage().addYourReviewBttn);
 	   logger.info("User clicked on add your review button succesfully");
+	   logger.info("Just add something");
 	}
 
 	

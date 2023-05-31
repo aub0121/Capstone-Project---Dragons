@@ -1,3 +1,4 @@
+@testAll
 Feature: Retail Home Page
 
 Background:

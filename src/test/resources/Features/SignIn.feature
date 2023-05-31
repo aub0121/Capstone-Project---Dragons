@@ -1,3 +1,4 @@
+@testAll
 Feature: Sign in Page
 
 @createAccount
@@ -5,7 +6,7 @@ Scenario: Verify user can create an account into Retail Website
 	Given User is on retail website
 	When User clicks on sign in option
 	And User clicks on Create New Account button
-	And User fills the sign up information with 'Flowerb' and 'flower2@tekschool.us' and 'Tekflower123!' and 'Tekflower123!'
+	And User fills the sign up information with 'Flowerb' and 'flower9@tekschool.us' and 'Tekflower123!' and 'Tekflower123!'
 	And User click on sign up button
 	Then User should be logged into account page
 

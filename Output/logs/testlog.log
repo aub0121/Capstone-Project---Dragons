@@ -709,3 +709,198 @@
 2023-05-30 17:59:05,362 - logger_file -INFO - User selcted on Fedex successfully
 2023-05-30 17:59:05,645 - logger_file -INFO - User clicked on return order button successfully
 2023-05-30 17:59:08,685 - logger_file -INFO - Return was successfull is displayed
+2023-05-31 21:50:51,954 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 21:50:52,119 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 21:50:52,434 - logger_file -INFO - User entered email and password successfully
+2023-05-31 21:50:54,579 - logger_file -INFO - User click on Login button successfully
+2023-05-31 21:50:55,175 - logger_file -INFO - User created acount successfully
+2023-05-31 21:50:55,371 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 21:50:55,822 - logger_file -INFO - User enetered new name and phone number successfully
+2023-05-31 21:50:55,925 - logger_file -INFO - User clicked on update button successfully
+2023-05-31 21:50:56,527 - logger_file -INFO - User profile information updated successfully
+2023-05-31 21:51:40,207 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 21:51:40,446 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 21:51:40,972 - logger_file -INFO - User entered email and password successfully
+2023-05-31 21:51:43,199 - logger_file -INFO - User click on Login button successfully
+2023-05-31 21:51:43,878 - logger_file -INFO - User created acount successfully
+2023-05-31 21:51:44,177 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 21:51:44,926 - logger_file -INFO - User enetered new name and phone number successfully
+2023-05-31 21:59:56,745 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 21:59:56,958 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 21:59:57,315 - logger_file -INFO - User entered email and password successfully
+2023-05-31 21:59:59,552 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:00:00,690 - logger_file -INFO - User created acount successfully
+2023-05-31 22:00:00,889 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 22:00:01,536 - logger_file -INFO - User enetered new name and phone number successfully
+2023-05-31 22:02:39,506 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:02:39,687 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:02:40,028 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:02:42,193 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:02:42,803 - logger_file -INFO - User created acount successfully
+2023-05-31 22:02:43,008 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 22:02:43,512 - logger_file -INFO - User enetered new name and phone number successfully
+2023-05-31 22:02:46,692 - logger_file -INFO - User clicked on update button successfully
+2023-05-31 22:02:47,306 - logger_file -INFO - User profile information updated successfully
+2023-05-31 22:03:39,269 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:03:39,442 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:03:39,780 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:03:41,951 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:03:42,549 - logger_file -INFO - User created acount successfully
+2023-05-31 22:03:42,742 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 22:03:42,929 - logger_file -INFO - User click on edit address button successfully
+2023-05-31 22:03:44,642 - logger_file -INFO - User updated address information successfully
+2023-05-31 22:03:44,762 - logger_file -INFO - User clicked on update address button successfully
+2023-05-31 22:08:20,028 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:08:20,208 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:08:20,514 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:08:22,696 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:08:23,307 - logger_file -INFO - User created acount successfully
+2023-05-31 22:08:23,508 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 22:08:23,700 - logger_file -INFO - User click on edit address button successfully
+2023-05-31 22:08:25,300 - logger_file -INFO - User updated address information successfully
+2023-05-31 22:08:25,425 - logger_file -INFO - User clicked on update address button successfully
+2023-05-31 22:09:42,990 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:09:43,181 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:09:43,490 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:09:45,649 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:09:46,247 - logger_file -INFO - User created acount successfully
+2023-05-31 22:09:46,456 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 22:09:46,607 - logger_file -INFO - User click on edit address button successfully
+2023-05-31 22:09:48,596 - logger_file -INFO - User updated address information successfully
+2023-05-31 22:09:48,759 - logger_file -INFO - User clicked on update address button successfully
+2023-05-31 22:11:28,407 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:11:28,577 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:11:28,891 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:11:31,040 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:11:31,651 - logger_file -INFO - User created acount successfully
+2023-05-31 22:11:31,848 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 22:11:32,012 - logger_file -INFO - User click on edit address button successfully
+2023-05-31 22:11:33,845 - logger_file -INFO - User updated address information successfully
+2023-05-31 22:11:33,983 - logger_file -INFO - User clicked on update address button successfully
+2023-05-31 22:16:51,846 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:16:52,061 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:16:52,405 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:16:54,561 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:16:55,184 - logger_file -INFO - User created acount successfully
+2023-05-31 22:16:55,380 - logger_file -INFO - User cliked on account button successfully
+2023-05-31 22:16:55,569 - logger_file -INFO - User click on edit address button successfully
+2023-05-31 22:16:57,418 - logger_file -INFO - User updated address information successfully
+2023-05-31 22:16:57,535 - logger_file -INFO - User clicked on update address button successfully
+2023-05-31 22:16:58,120 - logger_file -INFO - Address Updated Successfully is displayed
+2023-05-31 22:19:02,259 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:19:02,464 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:19:02,830 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:19:04,998 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:19:05,597 - logger_file -INFO - User created acount successfully
+2023-05-31 22:19:05,849 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:19:06,027 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-31 22:19:06,154 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:19:06,842 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-31 22:22:36,910 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:22:37,106 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:22:37,412 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:22:39,563 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:22:40,730 - logger_file -INFO - User created acount successfully
+2023-05-31 22:22:40,955 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:22:41,123 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-31 22:22:41,242 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:22:41,903 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-31 22:25:52,904 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:25:53,096 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:25:53,419 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:25:55,585 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:25:56,204 - logger_file -INFO - User created acount successfully
+2023-05-31 22:25:56,424 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:25:56,607 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-31 22:25:56,733 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:25:57,420 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-31 22:28:16,598 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:28:16,786 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:28:17,087 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:28:19,270 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:28:19,883 - logger_file -INFO - User created acount successfully
+2023-05-31 22:28:20,093 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:28:20,262 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-31 22:28:20,391 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:28:21,072 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-31 22:31:26,244 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:31:26,426 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:31:26,788 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:31:28,949 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:31:29,552 - logger_file -INFO - User created acount successfully
+2023-05-31 22:31:29,748 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:31:29,930 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-31 22:31:30,068 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:31:30,732 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-31 22:32:23,019 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:32:23,206 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:32:23,552 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:32:25,723 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:32:26,331 - logger_file -INFO - User created acount successfully
+2023-05-31 22:32:26,548 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:32:26,709 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-31 22:32:26,833 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:32:27,488 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-31 22:32:30,691 - logger_file -INFO - User input item quantity successfully
+2023-05-31 22:32:30,806 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-31 22:33:52,151 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:33:52,349 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:33:52,695 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:33:54,878 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:33:55,474 - logger_file -INFO - User created acount successfully
+2023-05-31 22:33:55,692 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:33:55,856 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-05-31 22:33:55,993 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:33:56,680 - logger_file -INFO - User clicked on Apex Legends Item successfully
+2023-05-31 22:33:59,859 - logger_file -INFO - User input item quantity successfully
+2023-05-31 22:33:59,977 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-31 22:36:32,307 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:36:32,474 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:36:32,779 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:36:34,926 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:36:35,523 - logger_file -INFO - User created acount successfully
+2023-05-31 22:36:35,730 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:36:35,869 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-05-31 22:36:35,968 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:36:36,658 - logger_file -INFO - User clicked on Apex Legends Item successfully
+2023-05-31 22:36:39,840 - logger_file -INFO - User input item quantity successfully
+2023-05-31 22:36:39,959 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-31 22:38:46,346 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:38:46,513 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:38:46,828 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:38:48,990 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:38:49,596 - logger_file -INFO - User created acount successfully
+2023-05-31 22:38:49,800 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:38:49,971 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-05-31 22:38:50,096 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:38:50,800 - logger_file -INFO - User clicked on Apex Legends Item successfully
+2023-05-31 22:38:53,995 - logger_file -INFO - User input item quantity successfully
+2023-05-31 22:38:54,116 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-31 22:46:21,514 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:46:21,686 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:46:22,046 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:46:24,205 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:46:24,833 - logger_file -INFO - User created acount successfully
+2023-05-31 22:46:25,055 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:46:25,223 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-05-31 22:46:25,348 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:46:26,004 - logger_file -INFO - User clicked on Apex Legends Item successfully
+2023-05-31 22:46:29,219 - logger_file -INFO - User input item quantity successfully
+2023-05-31 22:46:29,420 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-31 22:46:31,473 - logger_file -INFO - 5quantity is displayed succesfully
+2023-05-31 22:46:31,630 - logger_file -INFO - User clicked on cart button successfully
+2023-05-31 22:46:31,792 - logger_file -INFO - User clicked on proceed to checkout successfully
+2023-05-31 22:46:31,914 - logger_file -INFO - User clicked on place your order successfully
+2023-05-31 22:46:32,520 - logger_file -INFO - Order Placed, Thanks is displayed
+2023-05-31 22:47:14,724 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-05-31 22:47:14,899 - logger_file -INFO - User clicked on Sign In button successfully
+2023-05-31 22:47:15,230 - logger_file -INFO - User entered email and password successfully
+2023-05-31 22:47:17,439 - logger_file -INFO - User click on Login button successfully
+2023-05-31 22:47:18,049 - logger_file -INFO - User created acount successfully
+2023-05-31 22:47:18,262 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-05-31 22:47:18,417 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-05-31 22:47:18,538 - logger_file -INFO - User clicked on search icon successfully
+2023-05-31 22:47:19,198 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-05-31 22:47:22,396 - logger_file -INFO - User input item quantity successfully
+2023-05-31 22:47:22,516 - logger_file -INFO - User clicked on add to cart button successfully
+2023-05-31 22:47:24,568 - logger_file -INFO - 2quantity is displayed succesfully

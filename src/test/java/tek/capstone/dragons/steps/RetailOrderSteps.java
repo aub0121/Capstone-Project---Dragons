@@ -39,8 +39,9 @@ public class RetailOrderSteps extends CommonUtility {
 	}
 
 	@Then("User select quantity {string}")
-	public void userSelectQuantity(String itemQuantity) {
-		selectByVisibleText(factory.retailOrderPage().quantityDropdown, itemQuantity);
+	public void userSelectQuantity(String string) throws InterruptedException {
+		Thread.sleep(3000);
+		selectByVisibleText(factory.retailOrderPage().quantDropdown, string);
 		logger.info("User input item quantity successfully");
 	}
 
@@ -51,7 +52,8 @@ public class RetailOrderSteps extends CommonUtility {
 	}
 
 	@Then("the cart icon quantity should change to {string}")
-	public void theCartIconQuantityShouldChangeTo(String quantityInCart) {
+	public void theCartIconQuantityShouldChangeTo(String quantityInCart) throws InterruptedException {
+		Thread.sleep(2000);
 		Assert.assertEquals(quantityInCart, factory.retailOrderPage().cartQuantity.getText());
 		logger.info(quantityInCart + "quantity is displayed succesfully");
 	}

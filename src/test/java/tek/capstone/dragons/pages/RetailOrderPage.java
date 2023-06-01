@@ -23,7 +23,7 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath = "//p[text()='Kasa Outdoor Smart Plug']")
 	public WebElement kasaOutdoorSmartPlug;
 	@FindBy(xpath = "//select[@class='product__select']")
-	public WebElement quantityDropdown;
+	public WebElement quantDropdown;
 	@FindBy(xpath = "//button[@class='product__btn']")
 	public WebElement addToCartBttn;
 	@FindBy(xpath = "//span[@id='cartQuantity']")

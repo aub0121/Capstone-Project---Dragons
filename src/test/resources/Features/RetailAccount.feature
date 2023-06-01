@@ -10,7 +10,7 @@ Background:
 @updateProfile	
 Scenario: Verify user can update profile information
 	When User click on Account option
-	And User updates name 'Flowerd' and phone '504-687-5309'
+	And User updates name 'Flowerfg' and phone '504-687-5309'
 	And User clicks on update button
 	Then User profile information should be updated
 
@@ -60,7 +60,7 @@ Scenario: Verify User can edit an Address added on account
 	|country|fullName|phoneNumber|streetAddress|apt|city|state|zipCode|
 	|United States|Flowers|2342342345|567 street|109|Harrisonburg|Virginia|22123|
 	And User click update Your Address button
-	Then A message should be displayed 'Address Updated Successfully'
+	Then message should be displayed 'Address Updated Successfully'
 
 @removeAddress
 Scenario: Verify User can remove Address from Account

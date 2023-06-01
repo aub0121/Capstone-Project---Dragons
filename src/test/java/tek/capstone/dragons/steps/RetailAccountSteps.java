@@ -33,7 +33,8 @@ public class RetailAccountSteps extends CommonUtility{
 	}
 	
 	@When("User clicks on update button")
-	public void userClicksOnUpdateButton() {
+	public void userClicksOnUpdateButton() throws InterruptedException {
+		Thread.sleep(3000);
 	    click(factory.retailAccountPage().updateBttn);
 	    logger.info("User clicked on update button successfully");
 	}
@@ -80,13 +81,15 @@ public class RetailAccountSteps extends CommonUtility{
 	    	waitTillPresence(factory.retailAccountPage().addressAddedMessage);
 	    	Assert.assertEquals(expectedMessage, factory.retailAccountPage().addressAddedMessage.getText());
 	    	logger.info(expectedMessage + " is displayed");
-	    } else if(expectedMessage.contains("Updated")) {
-	    	waitTillPresence(factory.retailAccountPage().addressUpdatedMessage);
-	    	Assert.assertEquals(expectedMessage, factory.retailAccountPage().addressUpdatedMessage.getText());
-	    	logger.info(expectedMessage + " is displayed");
 	    }
 	}
-
+	@Then("message should be displayed {string}")
+	public void messageShouldBeDisplayed(String expectedMssg) {
+	    waitTillPresence(factory.retailAccountPage().addressUpdatedMessage);
+	    Assert.assertEquals(expectedMssg, factory.retailAccountPage().addressUpdatedMessage.getText());
+	    logger.info(expectedMssg + " is displayed");
+	}
+	
 	@When("User click on Card")
 	public void userClickOnCard() {
 	  click(factory.retailAccountPage().clickOnCard);

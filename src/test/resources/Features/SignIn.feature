@@ -1,4 +1,3 @@
-@testAll
 Feature: Sign in Page
 
 @createAccount

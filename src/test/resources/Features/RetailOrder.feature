@@ -1,4 +1,3 @@
-@testAll
 Feature: Retail Order Page
 
 Background:

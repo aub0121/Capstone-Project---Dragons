@@ -9,7 +9,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		tags = "",
-		features = ("classpath:features"),
+		features = ("classpath:Features"),
 		glue = "tek.capstone.dragons",
 		dryRun = false,
 		plugin = {

@@ -904,3 +904,14 @@
 2023-05-31 22:47:22,396 - logger_file -INFO - User input item quantity successfully
 2023-05-31 22:47:22,516 - logger_file -INFO - User clicked on add to cart button successfully
 2023-05-31 22:47:24,568 - logger_file -INFO - 2quantity is displayed succesfully
+2023-06-01 20:03:09,910 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-06-01 20:03:10,014 - logger_file -INFO - User clicked on Sign In button successfully
+2023-06-01 20:03:10,193 - logger_file -INFO - User entered email and password successfully
+2023-06-01 20:03:12,281 - logger_file -INFO - User click on Login button successfully
+2023-06-01 20:03:12,836 - logger_file -INFO - User created acount successfully
+2023-06-01 20:03:12,948 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-06-01 20:03:13,031 - logger_file -INFO - Logger entered kasa outdoor smart plug successfully
+2023-06-01 20:03:13,096 - logger_file -INFO - User clicked on search icon successfully
+2023-06-01 20:03:13,689 - logger_file -INFO - User click on kasa outdoor smart plug successfully
+2023-06-01 20:03:16,787 - logger_file -INFO - User input item quantity successfully
+2023-06-01 20:03:16,850 - logger_file -INFO - User clicked on add to cart button successfully

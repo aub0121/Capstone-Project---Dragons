@@ -8,7 +8,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags = "@addItemToCart",
+		tags = "",
 		features = ("classpath:Features"),
 		glue = "tek.capstone.dragons",
 		dryRun = false,

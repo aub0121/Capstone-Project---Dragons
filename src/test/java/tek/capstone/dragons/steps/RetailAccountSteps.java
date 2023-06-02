@@ -33,9 +33,9 @@ public class RetailAccountSteps extends CommonUtility{
 	}
 	
 	@When("User clicks on update button")
-	public void userClicksOnUpdateButton() throws InterruptedException {
-		Thread.sleep(3000);
-	    click(factory.retailAccountPage().updateBttn);
+	public void userClicksOnUpdateButton() {
+		waitTillPresence(factory.retailAccountPage().updateBttn);
+		click(factory.retailAccountPage().updateBttn);
 	    logger.info("User clicked on update button successfully");
 	}
 	

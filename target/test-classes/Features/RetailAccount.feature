@@ -10,7 +10,7 @@ Background:
 @updateProfile	
 Scenario: Verify user can update profile information
 	When User click on Account option
-	And User updates name 'Flowerfg' and phone '504-687-5309'
+	And User updates name 'Flow' and phone '504-687-5090'
 	And User clicks on update button
 	Then User profile information should be updated
 

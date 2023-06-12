@@ -938,3 +938,59 @@
 2023-06-01 22:58:52,566 - logger_file -INFO - User enetered new name and phone number successfully
 2023-06-01 22:58:52,726 - logger_file -INFO - User clicked on update button successfully
 2023-06-01 22:58:53,346 - logger_file -INFO - User profile information updated successfully
+2023-06-12 15:43:45,972 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-06-12 15:43:46,157 - logger_file -INFO - User clicked on Sign In button successfully
+2023-06-12 15:43:46,434 - logger_file -INFO - User entered email and password successfully
+2023-06-12 15:43:48,582 - logger_file -INFO - User click on Login button successfully
+2023-06-12 15:43:49,150 - logger_file -INFO - User created acount successfully
+2023-06-12 15:43:49,351 - logger_file -INFO - User cliked on account button successfully
+2023-06-12 15:43:49,993 - logger_file -INFO - User clicked on card to edit successfully
+2023-06-12 15:43:53,144 - logger_file -INFO - User clicked on edit button successfully
+2023-06-12 15:43:57,191 - logger_file -INFO - User updated card info successfully
+2023-06-12 15:43:57,334 - logger_file -INFO - User click on update payment button successfully
+2023-06-12 15:44:23,662 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-06-12 15:44:23,819 - logger_file -INFO - User clicked on Sign In button successfully
+2023-06-12 15:44:24,095 - logger_file -INFO - User entered email and password successfully
+2023-06-12 15:44:26,228 - logger_file -INFO - User click on Login button successfully
+2023-06-12 15:44:26,833 - logger_file -INFO - User created acount successfully
+2023-06-12 15:44:27,027 - logger_file -INFO - User cliked on account button successfully
+2023-06-12 15:44:27,705 - logger_file -INFO - User clicked on card to edit successfully
+2023-06-12 15:44:27,826 - logger_file -INFO - User clicked on remove card successfully
+2023-06-12 15:44:27,897 - logger_file -INFO - Card was removed successfully
+2023-06-12 15:47:41,494 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-06-12 15:47:41,654 - logger_file -INFO - User clicked on Sign In button successfully
+2023-06-12 15:47:42,214 - logger_file -INFO - User entered email and password successfully
+2023-06-12 15:47:44,347 - logger_file -INFO - User click on Login button successfully
+2023-06-12 15:47:44,953 - logger_file -INFO - User created acount successfully
+2023-06-12 15:47:45,169 - logger_file -INFO - User clicked on orders button successfully
+2023-06-12 15:47:45,368 - logger_file -INFO - User clicked on show details button to retrieve first order
+2023-06-12 15:47:45,508 - logger_file -INFO - User clicked in cancel button successfully
+2023-06-12 15:47:45,898 - logger_file -INFO - User enter cancelation reason successfully
+2023-06-12 15:47:46,050 - logger_file -INFO - User click on cancel order button successfully
+2023-06-12 15:47:49,110 - logger_file -INFO - Your Order Has Been Cancelled is displayed
+2023-06-12 15:48:42,128 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-06-12 15:48:42,283 - logger_file -INFO - User clicked on Sign In button successfully
+2023-06-12 15:48:43,424 - logger_file -INFO - User clicked on Create Account Button successfully
+2023-06-12 15:48:43,999 - logger_file -INFO - User entered name, email, password and confirm password successfully
+2023-06-12 15:48:45,129 - logger_file -INFO - User clicked on Sign Up button successfully
+2023-06-12 15:48:45,737 - logger_file -INFO - User created acount successfully
+2023-06-12 15:51:20,534 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-06-12 15:51:20,698 - logger_file -INFO - User clicked on Sign In button successfully
+2023-06-12 15:51:20,964 - logger_file -INFO - User entered email and password successfully
+2023-06-12 15:51:23,089 - logger_file -INFO - User click on Login button successfully
+2023-06-12 15:51:23,679 - logger_file -INFO - User created acount successfully
+2023-06-12 15:51:23,854 - logger_file -INFO - User cliked on account button successfully
+2023-06-12 15:51:24,200 - logger_file -INFO - User enetered new name and phone number successfully
+2023-06-12 15:51:24,325 - logger_file -INFO - User clicked on update button successfully
+2023-06-12 15:51:24,909 - logger_file -INFO - User profile information updated successfully
+2023-06-12 15:52:13,471 - logger_file -INFO - TEKSCHOOL: was successfully verified
+2023-06-12 15:52:13,609 - logger_file -INFO - User clicked on Sign In button successfully
+2023-06-12 15:52:13,849 - logger_file -INFO - User entered email and password successfully
+2023-06-12 15:52:15,982 - logger_file -INFO - User click on Login button successfully
+2023-06-12 15:52:16,589 - logger_file -INFO - User created acount successfully
+2023-06-12 15:52:16,805 - logger_file -INFO - User changed category to smart home sucessdfully
+2023-06-12 15:52:16,937 - logger_file -INFO - Logger entered Apex Legends successfully
+2023-06-12 15:52:17,045 - logger_file -INFO - User clicked on search icon successfully
+2023-06-12 15:52:17,710 - logger_file -INFO - User clicked on Apex Legends Item successfully
+2023-06-12 15:52:20,896 - logger_file -INFO - User input item quantity successfully
+2023-06-12 15:52:21,041 - logger_file -INFO - User clicked on add to cart button successfully
